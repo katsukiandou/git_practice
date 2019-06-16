@@ -1,0 +1,3 @@
+2019-06-15 21:40:14,862 DEBUG    logg_test           7: This message should go to the log file
+2019-06-15 21:40:14,862 INFO     logg_test           8: So should this 1
+2019-06-15 21:40:14,862 WARNING  logg_test           9: And this, too
