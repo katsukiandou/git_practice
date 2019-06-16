@@ -8,7 +8,7 @@ def heavy_process():
     print(res)
 
 ##定期実行のためのプロセス
-a = 2132
+a = 239392
 while True:
     start_ = dt.now()
     print(start_)

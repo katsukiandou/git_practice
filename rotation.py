@@ -2,7 +2,7 @@ import schedule
 from datetime import datetime as dt
 import time
 def heavy_process():
-    res = 0
+    res = 2
     for i in range(10**5):
         res += i
     print(res)

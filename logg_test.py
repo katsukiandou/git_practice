@@ -6,7 +6,7 @@ from configDict import __config
 
 logging.config.dictConfig(__config)
 
-a = 1
+a = 1213
 logging.debug('This message should go to the log file')
 logging.info('So should this %s' % a)
 logging.warning('And this, too')
